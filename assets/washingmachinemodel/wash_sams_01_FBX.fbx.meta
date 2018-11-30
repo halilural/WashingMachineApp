@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 9cde567ac7001c845838f4a6b336469c
+timeCreated: 1457093494
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BoxGizmo01
+    100002: Camera Switcher
+    100004: Camera01
+    100006: Camera01.Target
+    100008: ChamferBox01
+    100010: Cylinder01
+    100012: Cylinder02
+    100014: Group01
+    100016: Lensflare Source
+    100018: Moon
+    100020: Moon Light
+    100022: Object01
+    100024: Object02
+    100026: Plane01
+    100028: Shadow Plane
+    100030: Sky
+    100032: Sky Dome
+    100034: Sky Null
+    100036: Sun
+    100038: Sun light
+    100040: Sun01
+    100042: Sun01.Target
+    100044: //RootNode
+    400000: BoxGizmo01
+    400002: Camera Switcher
+    400004: Camera01
+    400006: Camera01.Target
+    400008: ChamferBox01
+    400010: Cylinder01
+    400012: Cylinder02
+    400014: Group01
+    400016: Lensflare Source
+    400018: Moon
+    400020: Moon Light
+    400022: Object01
+    400024: Object02
+    400026: Plane01
+    400028: Shadow Plane
+    400030: Sky
+    400032: Sky Dome
+    400034: Sky Null
+    400036: Sun
+    400038: Sun light
+    400040: Sun01
+    400042: Sun01.Target
+    400044: //RootNode
+    2300000: ChamferBox01
+    2300002: Cylinder01
+    2300004: Cylinder02
+    2300006: Object01
+    2300008: Object02
+    2300010: Plane01
+    3300000: ChamferBox01
+    3300002: Cylinder01
+    3300004: Cylinder02
+    3300006: Object01
+    3300008: Object02
+    3300010: Plane01
+    4300000: Plane01
+    4300002: Cylinder02
+    4300004: ChamferBox01
+    4300006: Cylinder01
+    4300008: Object01
+    4300010: Object02
+    7400000: C4D Animation Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BoxGizmo01
+        weight: 1
+      - path: Camera Switcher
+        weight: 1
+      - path: Camera01
+        weight: 1
+      - path: Camera01.Target
+        weight: 1
+      - path: Group01
+        weight: 1
+      - path: Group01/ChamferBox01
+        weight: 1
+      - path: Group01/Cylinder01
+        weight: 1
+      - path: Group01/Cylinder02
+        weight: 1
+      - path: Object01
+        weight: 1
+      - path: Object02
+        weight: 1
+      - path: Plane01
+        weight: 1
+      - path: Sky
+        weight: 1
+      - path: Sky/Shadow Plane
+        weight: 1
+      - path: Sky/Sky Dome
+        weight: 1
+      - path: Sky/Sky Null
+        weight: 1
+      - path: Sky/Sky Null/Moon
+        weight: 1
+      - path: Sky/Sky Null/Moon/Moon Light
+        weight: 1
+      - path: Sky/Sky Null/Sun
+        weight: 1
+      - path: Sky/Sky Null/Sun/Lensflare Source
+        weight: 1
+      - path: Sky/Sky Null/Sun/Sun light
+        weight: 1
+      - path: Sun01
+        weight: 1
+      - path: Sun01.Target
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 117
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
